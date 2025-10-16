@@ -42,5 +42,6 @@ Once the model was trained and evaluated, it was saved as a pickle file and util
 
 ### Test API via app.py
 
-![Test API via app.py](https://github.com/emrecanduran/End-to-End-Azure-ML-Deployment/blob/94fb0c750ded93cc1002c4728408012e4d3b15d2/screenshots/app.png)
+![Test API via app.py](<img width="296" height="253" alt="image" src="https://github.com/user-attachments/assets/290f5655-851f-48e0-9246-139ddcdf2d71" />)
+
 
